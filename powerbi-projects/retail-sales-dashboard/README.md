@@ -5,8 +5,7 @@ To analyze sales performance and identify key revenue trends.
 
 ## Dataset
 - Source: Public dataset
-- Size: Approx. 10,000 rows<img width="1366" height="768" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/39193ef2-5a15-492d-962d-28e46c30d4eb" />
-
+- Size: Approx. 10,000 rows
 
 ## Tools Used
 - Power BI
@@ -19,7 +18,7 @@ To analyze sales performance and identify key revenue trends.
 - Sales by Region
 
 ## Insights
-- Highest sales recorded in Q4
+- Highest sales recorded in the month of may
 - Top 3 products generated majority of revenue
 
 ## Dashboard Preview
